@@ -1,4 +1,4 @@
-# IIT-DEHLI
+# IIT-Delhi
 As part of my research at IIT Delhi, I conducted a comparative analysis of two prominent object detection algorithms: Viola-Jones and Faster R-CNN. For this project, I utilized the PASCAL VOC 2007 dataset, a well-regarded benchmark in object detection tasks.
 
 The PASCAL VOC 2007 dataset consists of 9,963 images annotated with 24,640 objects across 20 diverse classes. These classes include various categories such as:
